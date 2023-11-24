@@ -8,7 +8,7 @@ Curation of blog posts, articles, whitepapers, and videos of public presentation
 
 Amplify DataStore is a persistent on-device storage repository for developers to write, read, and observe changes to data. This whitepaper discusses the benefits, implementation details, and use cases of Amplify DataStore. This information will help your solutions architects, tech leads, and CTOs decide when and how to utilize Amplify DataStore in their solutions.
 
-[Download the whitepaper!](https://docs.aws.amazon.com/whitepapers/latest/amplify-datastore-implementation/welcome.html).
+[Download the whitepaper!](https://docs.aws.amazon.com/whitepapers/latest/amplify-datastore-implementation/welcome.html)
 
 ## Blog Posts
 
@@ -16,7 +16,7 @@ Amplify DataStore is a persistent on-device storage repository for developers to
 
 Location information can be very simple or very detailed. For a person delivering a package to certain house, an address with street number, name, city, and state could be more than enough information for them to find the right place. For a vehicle tracking system where you have a map with moving dots representing trucks in real-time, these pieces of data may not be enough to provide clear information to a dispatcher. Adding the latitude and longitude of the vehicle to present its current and historical positions is more important.
 
-[Read the full blog post!](https://techcommunity.microsoft.com/t5/azure-maps-blog/enrich-your-location-data-with-azure-maps/ba-p/3764851).
+[Read the full blog post!](https://techcommunity.microsoft.com/t5/azure-maps-blog/enrich-your-location-data-with-azure-maps/ba-p/3764851)
 
 ### Best practices: Securing your Amazon Location Service resources | Amazon Web Services
 
@@ -40,7 +40,7 @@ This post was cowritten by Ziv Pollak, Machine Learning Team Lead, and Alex Thor
 
 This article was written by Fernando Rocha Silva and Panna Shetty Emergency management teams are constantly tackling one crisis after another, whether it is managing the COVID pandemic or battling raging wild fires across California. These frontline...
 
-[Read the full blog post!](https://aws.amazon.com/blogs/mobile/create-an-ios-tracker-application-with-amazon-location-service-and-aws-amplify/), [en espanol](https://aws.amazon.com/es/blogs/aws-spanish/cree-una-aplicacion-de-seguimiento-para-ios-con-amazon-location-service-y-aws-amplify/), ou [em portugues](https://aws.amazon.com/pt/blogs/aws-brasil/crie-um-aplicativo-de-rastreamento-de-seguranca-para-ios-com-amazon-location-service-e-aws-amplify/).
+[Read the full blog post!](https://aws.amazon.com/blogs/mobile/create-an-ios-tracker-application-with-amazon-location-service-and-aws-amplify/), [en espanol](https://aws.amazon.com/es/blogs/aws-spanish/cree-una-aplicacion-de-seguimiento-para-ios-con-amazon-location-service-y-aws-amplify/), ou [em portugues](https://aws.amazon.com/pt/blogs/aws-brasil/crie-um-aplicativo-de-rastreamento-de-seguranca-para-ios-com-amazon-location-service-e-aws-amplify/)
 
 ## Technical public presentations
 
@@ -48,52 +48,52 @@ This article was written by Fernando Rocha Silva and Panna Shetty Emergency mana
 
 APIOps is a set of practices that aims to streamline the development, management, and maintenance of APIs. It combines the principles of DevOps, Agile, and API design to optimize the API lifecycle and enhance collaboration between development, operations, and business teams. We learned about its core principles, tools, and best practices for streamlining the API lifecycle. 
 
-[Watch the video here!](https://www.youtube.com/watch?v=ElHvrAgz9cc).
+[Watch the video here!](https://www.youtube.com/watch?v=ElHvrAgz9cc)
 
 ### Designing and Managing APIs with Azure API Management
 
 Crafting and managing APIs has never been easier with Azure API Management! Join us in this video as we explore the principles and best practices for designing and managing APIs using Azure API Management. Learn how to create scalable and secure APIs, enforce policies, and engage developers with an intuitive developer portal. Discover how Azure API Management simplifies the entire API lifecycle, from design and deployment to monitoring and analytics, empowering you to deliver exceptional API experiences.
 
-[Watch the video here!](https://www.youtube.com/watch?v=X6fSJZDZZ0I).
+[Watch the video here!](https://www.youtube.com/watch?v=X6fSJZDZZ0I)
 
 ### Exploring Message Queueing with Azure Service Bus
 
 Unlock the potential of reliable messaging with Azure Service Bus! Join us as we delve into the world of message queueing and explore the features and benefits of Azure Service Bus. Discover how this robust service enables you to decouple applications and systems, ensuring reliable message delivery and smooth communication. Learn about queues, topics, and subscriptions, and gain insights into best practices for building scalable and resilient messaging solutions.
 
-[Watch the video here!](https://www.youtube.com/watch?v=LA-sJzonRYQ).
+[Watch the video here!](https://www.youtube.com/watch?v=LA-sJzonRYQ)
 
 ### Build a quote generator using Azure Logic Apps, Azure OpenAI's Chat API & DALL·E
 
 In this demo, we'll explore the power of Azure Logic Apps by building a random quote generator that utilizes OpenAI's Chat API and DALL-E to create unique and inspiring quotes with beautiful images. Along the way, we'll discuss best practices for utilizing these powerful tools and how they can be applied to other use cases. Whether you're new to Logic Apps or an experienced developer, this session will provide valuable insights into building innovative solutions with Azure.
 
-[Watch the video here!](https://www.youtube.com/watch?v=7GCrLhHqgJs).
+[Watch the video here!](https://www.youtube.com/watch?v=7GCrLhHqgJs)
 
 ### AWS re:Invent 2021 - Building the re:Invent app with Amazon Location Service
 
 Thousands of guests come to Las Vegas to participate in re:Invent, the biggest annual AWS event. Attendees move from venue to venue to attend breakout sessions, chalk talks, and more. To help them get where they need to go, AWS provides transportation and directions. In this session, learn how Amazon Location Service is helping the re:Invent team provide attendees and fleets with accurate information on routes, locations, distances, and estimated travel times. See how they are utilizing a fully managed serverless solution to support attendees with clear and trustworthy location data and how you can do the same at your own events.
 
-[Watch the video here!](https://www.youtube.com/watch?v=D0yxgpcmQhQ).
+[Watch the video here!](https://www.youtube.com/watch?v=D0yxgpcmQhQ)
 
 ### AWS re:Invent 2021 - Build a high-throughput asset-tracking architecture
 
 Industry leaders are well aware of how geospatial data can help them optimize asset utilization, deliveries, geomarketing, and many other use cases. However, the process of tracking assets effectively presents challenges that go beyond the business level. This session uses vehicle tracking as an example to show how you can architect a serverless solution that tackles the technical challenges that this topic conventionally presents, including scalability, complexity, and real-time aspects.
 
-[Watch the video here!](https://www.youtube.com/watch?v=G8Rkuu6X-_8).
+[Watch the video here!](https://www.youtube.com/watch?v=G8Rkuu6X-_8)
 
 ### AWS Online Tech Talks - Build Secure, Location-Based Applications on AWS
 
 Customers are building location-based applications across myriad use cases from geomarketing to asset tracking and delivery. For example, a fire department may build an application to increase the safety of their volunteers using geofences, or muster...
 
-[Watch the video here!](https://www.youtube.com/watch?v=Y7HVRlhMt8s).
+[Watch the video here!](https://www.youtube.com/watch?v=Y7HVRlhMt8s)
 
 ### AWS AMER Summit Aug 2021: Build secure, location-based applications on AWS
 
 Organizations are building location-based applications across myriad use cases, from geomarketing to asset tracking and delivery. For example, a fire department may build an application to make it safer for volunteers using geofences, or muster points, to establish a designated safety zone in distress situations. Amazon Location Service and AWS Amplify can help you build secure, production-ready applications with location functionality, faster. In this session, dive into common use cases for location-based applications and learn how to build an application with geofences and asset tracking. In addition, learn how to create a geofence, securely track devices within that geofence, and deliver a secure, location-based application at scale.
 
-[Watch the video here!](https://www.youtube.com/watch?v=uHk5CYVyx-s).
+[Watch the video here!](https://www.youtube.com/watch?v=uHk5CYVyx-s)
 
 ### Flutter Canada Meetup - AWS Amplify DataStore
 
 AWS Amplify DataStore on Flutter. Presentation and demo.
 
-[Watch the video here!](https://www.youtube.com/watch?v=GD1ObqC-6Qg).
+[Watch the video here!](https://www.youtube.com/watch?v=GD1ObqC-6Qg)
